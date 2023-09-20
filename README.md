@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pre-onboarding%20Project&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pre-onboarding%20Project&fontSize=50)
 
 #### 첫 React 프로젝트
 - 프로젝트 기간 : 2023.09.07 ~ 미완료
